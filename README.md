@@ -26,4 +26,6 @@ Setup: Setup is really simple, it's like any other logger,
 
 virtualenv and UPX are recommended to make it smaller, faster, and less detected
 
+Donr forget to paste in ur webhook in Drippe.py!
+
 # Enjoy :)
