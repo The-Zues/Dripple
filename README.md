@@ -1,7 +1,7 @@
 # Dripple
 
 The best discord token logger!
-Fentanyl is an old scrapped project of mine.
+Dripple is an old scrapped project of mine.
 Basically, I was bored so I decided to make a super OP grabber.
 The code is super messy and some people tried to leak it so I decided I'm just going to make it public.
 I'll update this regularly but don't expect me to put a lot of effort in cause it's kind of a crappy project anyway.
